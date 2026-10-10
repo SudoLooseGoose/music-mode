@@ -1,0 +1,4 @@
+[window]
+title = "Music mode - CAVA"
+class= {instance = "MusicModeCava", general = "MusicModeCava"}
+decorations = "None"
